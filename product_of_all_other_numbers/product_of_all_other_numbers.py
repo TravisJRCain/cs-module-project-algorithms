@@ -13,6 +13,7 @@ def product_of_all_other_numbers(arr):
             total = total * item
         new_arr[i] = total
     return new_arr
+    
 
 
 if __name__ == '__main__':
